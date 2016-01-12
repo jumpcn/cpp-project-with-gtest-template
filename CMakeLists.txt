@@ -1,0 +1,2 @@
+PROJECT(project)
+ADD_SUBDIRECTORY(test)
